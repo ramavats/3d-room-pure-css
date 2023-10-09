@@ -1,3 +1,11 @@
+/***********************/
+/***********************/
+/************************/
+/* Mixin para crear cubo ( Caras siempre al frente ) */
+/************************/
+/***********************/
+/***********************/
+/**/
 *, *::after, *::before {
   margin: 0;
   padding: 0;
@@ -946,7 +954,7 @@ body {
   width: 100%;
   height: 100%;
   box-shadow: 0.125vw 0.125vw 1vw rgba(81, 137, 251, .5), -0.125vw 0.125vw 1vw rgba(81, 137, 251, .5), 0.125vw -0.125vw 1vw rgba(81, 137, 251, .5), -0.125vw -0.125vw 1vw rgba(81, 137, 251, .5);
-  background-image: url('funny.gif');
+  background-image: url('https://rawcdn.githack.com/ricardoolivaalonso/Codepen/43200238c3177b02a97423fa6cc23f8bfcc5c105/Room/gif.gif');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -1447,7 +1455,7 @@ body {
   background-color: #383358;
 }
 .cuadro-l__front {
-  background-image: url('puppy.jpg');
+  background-image: url('https://rawcdn.githack.com/ricardoolivaalonso/Codepen/43200238c3177b02a97423fa6cc23f8bfcc5c105/Room/cuadro-1.jpg');
   background-color: #d51e24;
   border: 1vw solid #d51e24;
 }
